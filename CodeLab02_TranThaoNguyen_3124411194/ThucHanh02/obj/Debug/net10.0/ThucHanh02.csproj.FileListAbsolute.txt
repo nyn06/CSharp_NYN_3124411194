@@ -1,0 +1,14 @@
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ThucHanh02.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ThucHanh02.AssemblyInfoInputs.cache
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ThucHanh02.AssemblyInfo.cs
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ThucHanh02.csproj.CoreCompileInputs.cache
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\bin\Debug\net10.0\ThucHanh02.exe
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\bin\Debug\net10.0\ThucHanh02.deps.json
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\bin\Debug\net10.0\ThucHanh02.runtimeconfig.json
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\bin\Debug\net10.0\ThucHanh02.dll
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\bin\Debug\net10.0\ThucHanh02.pdb
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ThucHanh02.dll
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\refint\ThucHanh02.dll
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ThucHanh02.pdb
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ThucHanh02.genruntimeconfig.cache
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\obj\Debug\net10.0\ref\ThucHanh02.dll

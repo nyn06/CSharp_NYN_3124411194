@@ -1,0 +1,14 @@
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\bin\Debug\net10.0\Bai3_6.exe
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\bin\Debug\net10.0\Bai3_6.deps.json
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\bin\Debug\net10.0\Bai3_6.runtimeconfig.json
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\bin\Debug\net10.0\Bai3_6.dll
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\bin\Debug\net10.0\Bai3_6.pdb
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\Bai3_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\Bai3_6.AssemblyInfoInputs.cache
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\Bai3_6.AssemblyInfo.cs
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\Bai3_6.csproj.CoreCompileInputs.cache
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\Bai3_6.dll
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\refint\Bai3_6.dll
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\Bai3_6.pdb
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\Bai3_6.genruntimeconfig.cache
+D:\SUBJECTS FOR IT\CSharp\Lab02_Tran Thao Nguyen_3124411194\ThucHanh02\Bai3_6\obj\Debug\net10.0\ref\Bai3_6.dll
