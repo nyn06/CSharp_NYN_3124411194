@@ -1,0 +1,14 @@
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\BaiThucHanhLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\BaiThucHanhLinQ.AssemblyInfoInputs.cache
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\BaiThucHanhLinQ.AssemblyInfo.cs
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\BaiThucHanhLinQ.csproj.CoreCompileInputs.cache
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\bin\Debug\net10.0\BaiThucHanhLinQ.exe
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\bin\Debug\net10.0\BaiThucHanhLinQ.deps.json
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\bin\Debug\net10.0\BaiThucHanhLinQ.runtimeconfig.json
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\bin\Debug\net10.0\BaiThucHanhLinQ.dll
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\bin\Debug\net10.0\BaiThucHanhLinQ.pdb
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\BaiThucHanhLinQ.dll
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\refint\BaiThucHanhLinQ.dll
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\BaiThucHanhLinQ.pdb
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\BaiThucHanhLinQ.genruntimeconfig.cache
+D:\SUBJECTS FOR IT\CSharp\BaiThucHanhLinQ\obj\Debug\net10.0\ref\BaiThucHanhLinQ.dll
